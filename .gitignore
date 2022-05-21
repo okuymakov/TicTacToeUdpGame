@@ -1,0 +1,3 @@
+# Project exclude paths
+/Udp-Client/target/
+/Udp-Server/target/
